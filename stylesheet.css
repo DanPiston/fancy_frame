@@ -43,6 +43,9 @@ section, footer, header, aside{
 	The clocks
 --------------------------*/
 
+#whole_clock{
+
+}
 
 #clock{
 	width:370px;
